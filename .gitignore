@@ -42,3 +42,4 @@ backend/uploads/*
 !backend/uploads/.gitkeep
 backend/data/*.json
 backend/data/chroma/
+backend/**/__pycache__/
